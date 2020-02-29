@@ -56,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CoreFunctions.cs" />
+    <Compile Include="DiscordJoiner.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

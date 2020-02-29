@@ -1,0 +1,16 @@
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\Orion.exe.config
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\Orion.exe
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\Orion.pdb
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\DiscordRPC.dll
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\EasyExploits.dll
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\Newtonsoft.Json.dll
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\DiscordRPC.pdb
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\DiscordRPC.xml
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\bin\Release\Newtonsoft.Json.xml
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\obj\Release\Orion.Form1.resources
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\obj\Release\Orion.Properties.Resources.resources
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\obj\Release\Orion.csproj.GenerateResource.cache
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\obj\Release\Orion.csproj.CoreCompileInputs.cache
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\obj\Release\Orion.csproj.CopyComplete
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\obj\Release\Orion.exe
+C:\Users\Arili\Documents\Coding\Projects\Exploit\Orion\Orion\obj\Release\Orion.pdb

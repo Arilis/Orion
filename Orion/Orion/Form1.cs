@@ -1,14 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Diagnostics;
 using System.Drawing;
 using System.IO;
-using System.Linq;
 using System.Net;
-using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json.Linq;
@@ -19,6 +12,7 @@ namespace Orion
     {
         Monaco monaco = new Monaco();
         private PresenceHandler PHandler = new PresenceHandler();
+        private DiscordJoiner DHandler = new DiscordJoiner();
         public Form1()
         {
            InitializeComponent();
@@ -36,8 +30,6 @@ namespace Orion
 
         private async void Form1_Load(object sender, EventArgs e)
         {
-            Form1 f = new Form1();
-            IntPtr dummy = f.Handle;
             // Directory Starting
             if (!Directory.Exists(Directory.GetCurrentDirectory() + "\\scripts"))
             {
@@ -149,6 +141,12 @@ namespace Orion
             {
                 PHandler.StartRPC();
             }
+
+            if (Theme["Topmost"].ToString() == "true")
+            {
+                this.TopMost = true;
+            }
+            DHandler.startJoining();
         }
 
         
