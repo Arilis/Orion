@@ -15,6 +15,7 @@ Orion is a open-sourced Roblox exploit powered by EasyExploits
 - [x] Configuration file
 - [x] Discord Rich Presence
 - [x] Auto-join discord server
+- [x] Remove EasyExploit's shitty credit UI on injection
 - [ ] Save script
 
 
