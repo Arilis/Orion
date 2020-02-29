@@ -22,8 +22,10 @@ Orion is a open-sourced Roblox exploit powered by EasyExploits
 ![UI](https://arilis.dev/uploader/files/ry73bi.png)
 
 ## Credits
-UI & UI Functionality - ArilisDev
-DLL Functionality - EasyExploit Developers
+# UI & UI Functionality
+ArilisDev
+# DLL Functionality
+EasyExploit Developers
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
